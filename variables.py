@@ -59,4 +59,4 @@ ENABLE_BOOKMARKS = True
 # Time settings
 POST_CACHE_TIME = 300  # seconds
 SESSION_TIMEOUT = 1800  # seconds
-# Last sync: 2026-05-23 13:41:23 UTC
+# Last sync: 2026-05-23 14:40:01 UTC
